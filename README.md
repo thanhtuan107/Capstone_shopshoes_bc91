@@ -1,1 +1,5 @@
-# Capstone_shopshoes_node91
+_ user UI
+_ detail product
+_ add to cart
+_sumbit order
+_sign up / sign in
